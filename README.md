@@ -1,2 +1,2 @@
-# STM32F1xx OOP Library Example
+# STM32F1xx OOP Library Examples
 Some examples of [STM32F1xx OOP Libaray](https://github.com/ziteh/stm32f1xx-oop-library)
