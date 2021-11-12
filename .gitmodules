@@ -1,0 +1,3 @@
+[submodule "stm32f1xx-oop-library"]
+	path = stm32f1xx-oop-library
+	url = https://github.com/ziteh/stm32f1xx-oop-library.git
